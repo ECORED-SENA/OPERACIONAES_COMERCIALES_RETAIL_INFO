@@ -33,7 +33,7 @@ export default {
         nombre: 'Ana Catalina Córdoba Sus',
         cargo: 'Revisora Metodológica y Pedagógica',
         centro:
-          'Centro para la Industria de la Comunicación Gráfic - Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',

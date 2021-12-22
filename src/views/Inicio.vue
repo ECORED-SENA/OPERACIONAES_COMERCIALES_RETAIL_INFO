@@ -98,7 +98,7 @@ section
           | 230101507 - Generar hábitos saludables de vida mediante la aplicación de programas de actividad física en los contextos productivos y sociales.
         li 
           i.fas.fa-angle-right
-          | 240201529 - Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
+          | 240201533 - Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
         li 
           i.fas.fa-angle-right
           | 240202501 - Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el marco común europeo de referencia para las lenguas.
@@ -138,7 +138,7 @@ section
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 5. Perfil de egreso
-    p El egresado en operaciones comerciales en retail es un talento humano formado integralmente bajo el enfoque por competencias, para desempeñarse en labores de organización, exhibición, demostración, control de inventarios, así como el recibo y asignación de importe a bienes y servicios, de consumo masivo, en almacenes de comercio minorista. empleando principios éticos en contextos cambiantes del mercado.
+    p El egresado en operaciones comerciales en retail es un talento humano formado integralmente bajo el enfoque por competencias, para desempeñarse en labores de organización, exhibición, demostración, control de inventarios, así como el recibo y asignación de importe a bienes y servicios, de consumo masivo, en almacenes de comercio minorista empleando principios éticos en contextos cambiantes del mercado.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
