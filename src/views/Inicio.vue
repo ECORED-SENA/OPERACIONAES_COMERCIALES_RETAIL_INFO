@@ -98,7 +98,7 @@ section
           | 230101507 - Generar hábitos saludables de vida mediante la aplicación de programas de actividad física en los contextos productivos y sociales.
         li 
           i.fas.fa-angle-right
-          | 240201533 - Gestionar procesos propios de la cultura emprendedora y empresarial de acuerdo con el perfil personal y los requerimientos de los contextos productivo y social.
+          | 240201533 - Fomentar cultura emprendedora según habilidades y competencias personales.
         li 
           i.fas.fa-angle-right
           | 240202501 - Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el marco común europeo de referencia para las lenguas.
